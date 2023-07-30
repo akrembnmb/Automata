@@ -21,12 +21,12 @@ To run this project, you need the following dependencies:
 pip install automata-lib
 pip install pillow
 pip install graphviz
+pip install tkinter
 
 
 Run the script final_aut.py
 
 
-## Screenshots
 
 ![GUI Screenshot](assets/menue.png)
 ![Transitions](assets/auto.png)
