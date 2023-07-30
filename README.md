@@ -26,4 +26,3 @@ pip install tkinter
 
 Run the script final_aut.py
 
-*##* Setup
