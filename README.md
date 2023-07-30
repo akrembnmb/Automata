@@ -27,8 +27,3 @@ pip install tkinter
 Run the script final_aut.py
 
 
-
-![GUI Screenshot](assets/menue.png)
-![Transitions](assets/auto.png)
-
-
